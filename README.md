@@ -1,1 +1,1 @@
-# Scala_Constuctors_Problem_Solving
+there are some problem-solving in scala constructors
